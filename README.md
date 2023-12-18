@@ -1,0 +1,2 @@
+# weak-favicon
+A
